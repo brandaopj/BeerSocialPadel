@@ -39,7 +39,7 @@ ul{
 
 
 #showcase{
-  
+
   min-height:330px;
   xbackground-image: url('/images/fondopista.png');
   background-image: url('/images/founders.png');
@@ -139,7 +139,7 @@ ul{
 
 /* Multimedia */
 #multimedia{
-  
+
   padding: 20px;
   background-color:#142C36;
 }
@@ -170,7 +170,7 @@ ul{
   /*#newsletter h1,
   #newsletter form,*/
   .video-container,
-  ..video-container iframe,
+  .video-container iframe,
   #multimedia,
   #boxes .box,
   article#main-col,
@@ -204,7 +204,7 @@ ul{
   height: 100%;
 }
 
- 
+
 
   /*#newsletter button, .quote button{
     display:block;
@@ -217,7 +217,7 @@ ul{
   }*/
 }
 
-            
+
 /*.carousel-item.active,
 .carousel-item-next,
 .carousel-item-prev {
@@ -226,7 +226,7 @@ ul{
     height:auto;
 }
 
-.carrousel-div 
+.carrousel-div
     {
         margin: auto;
         width: 50%;
@@ -236,7 +236,7 @@ ul{
     }
 
 @media screen and (max-width: 480px) {
-    .carrousel-div 
+    .carrousel-div
     {
         margin: auto;
         width: 100%;
