@@ -14,7 +14,7 @@
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
-            <strong>Novidades 2018!</strong>  <a href="https://www.facebook.com/cartripadel/?fref=mentions" class="alert-link">Cartri</a> 
+            <strong>Novidades 2018!</strong>  <a href="https://www.facebook.com/cartripadel/" class="alert-link">Cartri</a> 
             será o nosso parceiro desportivo.
         </div>
 
@@ -46,9 +46,14 @@
           <h3><a href="/welcome">BSP</a></h3>
         </div>
 
-        <div class="box">
+        <!-- <div class="box">
           <img src="/images/BSP_QRCODE.png">
           <h3><a href="/welcome">QR Code BSP</a></h3>
+        </div> -->
+        
+        <div class="box">
+          <img src="/images/cartri.png">
+          <h3><a href="https://www.facebook.com/cartripadel/">Cartri</a></h3>
         </div>
        
 
