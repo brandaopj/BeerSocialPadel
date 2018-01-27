@@ -14,8 +14,8 @@
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
-            <strong>Novidades 2018!</strong> Passamos a disponibilizar torneios na categoria de Mistos.
-            <a href="/fichainscricaomistos" class="alert-link">Inscreve-te!</a>
+            <strong>Novidades 2018!</strong>  <a href="https://www.facebook.com/cartripadel/?fref=mentions" class="alert-link">Cartri</a> 
+            será o nosso parceiro desportivo.
         </div>
 
         <section id = "showcase">
