@@ -10,13 +10,13 @@
 
 @section('content')
 
-        <div class="alert alert-info alert-dismissible fade show" role="alert" style="text-align: center">
+        <!-- <div class="alert alert-info alert-dismissible fade show" role="alert" style="text-align: center">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
             <strong>Novidades 2018!</strong>  <a href="https://www.facebook.com/cartripadel/" class="alert-link">Cartri</a> 
             será o nosso parceiro desportivo.
-        </div>
+        </div> -->
 
         <section id = "showcase">
           <div class="container">
@@ -41,10 +41,10 @@
 
       <div class="container">
 
-        <div class="box">
+        <!-- <div class="box">
           <img src="https://i.imgur.com/sseswjN.jpg">
           <h3><a href="/welcome">BSP</a></h3>
-        </div>
+        </div> -->
 
         <!-- <div class="box">
           <img src="/images/BSP_QRCODE.png">
@@ -57,23 +57,23 @@
         </div>
        
 
-        <div class="box">
+        <!-- <div class="box">
           <img src="/images/facebook.png">
           <h3><a href="https://www.facebook.com/BeerSocialPadel/">Facebook</a></h3>
-          <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mi augue, viverra sit amet ultricies</p> -->
+          
         </div>
 
         <div class="box">
           <img src="/images/instagram.png">
           <h3><a href="https://www.instagram.com/beersocialpadel.bsp/?hl=pt">Instagram</a></h3>
-          <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mi augue, viverra sit amet ultricies</p> -->
+          
         </div>
 
         <div class="box">
           <img src="/images/youtube.png">
           <h3><a href="https://www.youtube.com/channel/UCP-_X9u2XK0cGFrYaEWYSAg">Youtube</a></h3>
-          <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mi augue, viverra sit amet ultricies</p> -->
-        </div>
+          
+        </div> -->
 
       </div>
     </section>

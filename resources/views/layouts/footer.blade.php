@@ -13,10 +13,10 @@ footer{
 </style>
 
 
-<p>Pedro Brandão Design, Copyright &copy; 2018 | <a href="https://github.com/brandaopj"> GitHub </a></p>
 
 
-<!-- <style>
+
+<style>
 .header-font {
   font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #e8491d;
@@ -119,14 +119,11 @@ footer{
         <div class="col-md-7">
             <div class="row py-0">
           <div class="col-sm-1 hidden-md-down">
-              <a  href="#">
-                <img src="https://i.imgur.com/sseswjN.jpg" width="60" height="60">
-              </a>
+              
             </div>
             <div class="col-sm-11 text-white">
-                <div><h4>  Um brinde ao Padel</h4>
-                    <p>   <span class="header-font">B</span>eer<span class="header-font">S</span>ocial<span class="header-font">P</span>adel.pt</p>
-                </div>
+                <div><p>Pedro Brandão Design, Copyright &copy; 2018 | <a href="https://github.com/brandaopj"> GitHub </a></p>
+            </div>
             </div>
             </div>
         </div>
@@ -149,4 +146,4 @@ footer{
         </div>
       </div>
     </div>
-    </div> -->
+    </div>
