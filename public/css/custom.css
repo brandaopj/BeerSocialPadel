@@ -40,12 +40,12 @@ ul{
 
 #showcase{
 
-  min-height:330px;
+  min-height:480px;
   xbackground-image: url('/images/fondopista.png');
   background-image: url('/images/founderspadel.png');
   background-repeat: no-repeat;
-  background-position: center 100px;
-  background-attachment: fixed;
+  background-position: center 20px;
+  xbackground-attachment: fixed;
   xbackground-size: cover;
   background-size: contain;
   text-align:right;

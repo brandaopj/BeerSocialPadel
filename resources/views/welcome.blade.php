@@ -20,6 +20,8 @@
 
         <section id = "showcase">
           <div class="container">
+          
+          
            <!-- <h1>Novidades 2018!</h1>
            <p>Passamos a disponibilizar torneios na categoria de Mistos.</p>
            <p>Faz já a tua <a href="/fichainscricaomistos">inscrição</a> nesta modalidade!</p> -->
@@ -51,10 +53,10 @@
           <h3><a href="/welcome">QR Code BSP</a></h3>
         </div> -->
         
-        <div class="box">
+        <!-- <div class="box">
           <img src="/images/cartri.png">
           <h3><a href="https://www.facebook.com/cartripadel/">Cartri</a></h3>
-        </div>
+        </div> -->
        
 
         <!-- <div class="box">
