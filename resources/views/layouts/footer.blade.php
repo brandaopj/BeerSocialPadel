@@ -2,7 +2,7 @@
 
 
 footer{
-  padding:5px;
+  padding:0px;
   margin-top:0px;
   color:#ffffff;
   background-color:#35424a;

@@ -19,14 +19,16 @@
         </div> -->
 
         <section id = "showcase">
-          <div class="container">
+          <!-- <div class="container"> -->
           
           
            <!-- <h1>Novidades 2018!</h1>
            <p>Passamos a disponibilizar torneios na categoria de Mistos.</p>
            <p>Faz já a tua <a href="/fichainscricaomistos">inscrição</a> nesta modalidade!</p> -->
-         </div>
+         <!-- </div> -->
         </section>
+
+        
 
 
         <!-- <section id="newsletter">
@@ -39,9 +41,9 @@
           </div>
         </section> -->
 
-        <section id="boxes">
+      <!-- <section id="boxes"> -->
 
-      <div class="container">
+        <!-- <div class="container"> -->
 
         <!-- <div class="box">
           <img src="https://i.imgur.com/sseswjN.jpg">
@@ -77,8 +79,8 @@
           
         </div> -->
 
-      </div>
-    </section>
+      <!-- </div>
+    </section> -->
 
 
 @endsection
