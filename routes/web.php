@@ -853,18 +853,18 @@ Route::post('/randomcs/result', function(Request $request)
 					];
 	$a_model_5[1] =	[ "round" => 1,
 					  "court" => $court2,
-					  "team1" => $equipas[2]['players'],
-					  "team2" => $equipas[3]['players']
+					  "team1" => $equipas[5]['players'],
+					  "team2" => $equipas[4]['players']
 					];
 	$a_model_5[2] =	[ "round" => 1,
 					  "court" => $court3,
-					  "team1" => $equipas[0]['players'],
+					  "team1" => $equipas[3]['players'],
 					  "team2" => $equipas[2]['players']
 					];
 	$a_model_5[3] =	[ "round" => 2,
 					  "court" => $court1,
 					  "team1" => $equipas[4]['players'],
-					  "team2" => $equipas[5]['players']
+					  "team2" => $equipas[1]['players']
 					];
 	$a_model_5[4] =	[ "round" => 2,
 					  "court" => $court2,
@@ -873,8 +873,8 @@ Route::post('/randomcs/result', function(Request $request)
 					];
 	$a_model_5[5] =	[ "round" => 2,
 					  "court" => $court3,
-					  "team1" => $equipas[1]['players'],
-					  "team2" => $equipas[4]['players']
+					  "team1" => $equipas[0]['players'],
+					  "team2" => $equipas[2]['players']
 					];
 	$a_model_5[6] =	[ "round" => 3,
 					  "court" => $court1,
