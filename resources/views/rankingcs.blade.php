@@ -15,26 +15,35 @@
 
 
 
-        <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36; color: white;">
+    <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36; color: white;">
         <BR>
-        <h2>Ranking CS</h2>
+        <h2>RANKINGS</h2>
         <p>
-          
-          O ranking CS será composto pela média de pontos conquistados na season 1 aos quais se juntará a média de
-          pontos conquistados na season 2.
-          <BR>
-          No final da season 2, os pontos da season 1 serão retirados.
-          <BR>
-          Para tal e visto que vai haver uma alteração ao sistema de pontuação, iremos fazer uma correlação direta
-          dos pontos da season 1 para equiparar aos pontos atuais (8 pontos equivalem a 225 pontos).
-
+          No sistema Beer Social Padel (BSP), há dois tipos de rankings:
+		    </p>
+		    <h5>RANKING GERAL | RANKING CABEÇAS DE SÉRIE (CS)</h5>
+        <BR>
+        <p> No RANKING GERAL, a classificação de cada jogador resulta do somatório dos pontos dos torneios em que o jogador participou na temporada em curso. Sendo apenas considerados os 20 melhores torneios de cada temporada.</p>
+        <BR>
+        <p>
+		    No RANKING CS, há dois parâmetros para definir a classificação de cada jogador. Um parâmetro fixo, o RANKING CS da temporada anterior. E o valor do RANKING CS da temporada em curso, que é obtido através da média dos pontos que o jogador obteve sobre os torneios que participou na temporada em curso.
         </p>
+
+
+        <div> 
+          <img src="/images/formula.png">
+        </div>
+		
+		    <BR>
+		    <p>
+    		Para o cálculo do RANKING CS da temporada em curso, sempre que cada jogador chegar a 5 torneios num mês, apenas serão considerados os 4 melhores torneios. E em cada época, apenas são considerados os 20 melhores torneios de cada jogador.
+    		</p>
         </div>
         <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36;">
 
         @php
         
-          $table1000 = "<div style='margin: 0 auto; padding-right: 20px;'>
+          $table1000 = "<div style='margin: 0 auto; padding-right: 20px; color:black;'>
                         <table class='table table-striped' style='text-align:center'>
                         <thead>
                           <tr>
@@ -97,7 +106,7 @@
 
 
 
-          $table1500 = "<div style='margin: 0 auto; padding-left: 10px; padding-right: 10px;'>
+          $table1500 = "<div style='margin: 0 auto; padding-left: 10px; padding-right: 10px; color:black;'>
                         <table class='table table-striped' style='text-align:center'>
                         <thead>
                           <tr>
@@ -159,7 +168,7 @@
                         </div>";
 
 
-          $table2000 = "<div style='margin: 0 auto; padding-left: 20px;'>
+          $table2000 = "<div style='margin: 0 auto; padding-left: 20px; color:black;'>
                         <table class='table table-striped' style='text-align:center'>
                         <thead>
                           <tr>
@@ -219,6 +228,28 @@
 
         @endphp 
 
+        <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36; color: white;">
+          <p>
+          
+          Os torneios em geral serão <b>BSP 1000</b>.
+          <BR><BR>
+          Porém decorrente da qualidade e competitividade dos inscritos para cada torneio, poderá existir uma
+          majoração dos pontos disponíveis.
+          <BR>
+          Isso será feito, em função da média do ranking de CS dos inscritos em função da média geral CS.
+          <BR><BR>
+          Assim para um torneio ser considerado <b>BSP 2000</b> a média dos inscritos tem que ser igual ou superior à media dos primeiros 35% do ranking CS.
+          <BR>
+          Para ser considerado <b>BSP 1500</b> a média dos inscritos tem que ser igual ou superior à media dos primeiros 55% do ranking CS.
+          <BR><BR>
+          Com esta alteração pretendemos valorizar os torneios com um grau de dificuldade superior.
+          <BR><BR>
+          Para os torneios PARTNERS, de momento não há qualquer tipo de pontuação.
+        </p>
+
+
+      </div>
+
         <div class="table-responsive">
         <table class='table table-striped table-dark' style='text-align:center'>
           <thead>
@@ -239,26 +270,7 @@
           </div>
           </div>
 
-          <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36; color: white;">
-          <p>
-          
-          Os torneios em geral serão <b>BSP 1000</b>.
-          <BR><BR>
-          Porém decorrente da qualidade e competitividade dos inscritos para cada torneio, poderá existir uma
-          majoração dos pontos disponíveis.
-          <BR>
-          Isso será feito, em função da média do ranking de CS dos inscritos em função da média geral CS.
-          <BR><BR>
-          Assim para um torneio ser considerado <b>BSP 2000</b> a média dos inscritos tem que ser igual ou superior à media dos primeiros 35% do ranking CS.
-          <BR>
-          Para ser considerado <b>BSP 1500</b> a média dos inscritos tem que ser igual ou superior à media dos primeiros 55% do ranking CS.
-          <BR><BR>
-          Com esta alteração pretendemos valorizar os torneios com um grau de dificuldade superior.
-
-        </p>
-
-
-      </div>
+        
 
             
 

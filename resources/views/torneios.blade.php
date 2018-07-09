@@ -22,13 +22,17 @@
             <BR>
             <H3><div style="color:#e8491d;">Como funcionam:</div></H3>
             <BR>
-            <p>Todas as semanas, o BSP organiza dois torneios semanais, às 2ªs feiras e às 5ªs feiras, das 21h – 23h. Um Premium e um Challenger.</p>
-			<p>As inscrições estão abertas a todos os membros BSP que estejam no grupo do Whatsapp.</p>
-			<p>De forma a possibilitar que o maior número de jogadores consigam participar num dos dois torneios semanais, existem prioridades para os diferentes tipos de torneios, em função da classificação de cada jogador na Tabela Cabeças de Serie.</p>
-			<p>Esta tabela é calculada através da média de pontos obtidos por cada jogador nos torneios em que participou.</p>
-			<p>Quando um jogador está um mês sem participar nos torneios, será retirado da tabela de cabeças de serie, sendo os seus pontos congelados até regressarem aos torneios, podendo a organização atribuir Wild Cards para a sua participação nesse 1º torneio de regresso.</p>
-			<p>A tabela de classificação geral, é o somatório de todas as pontuações em todos os torneios. Esta tabela geral não tem influência nas prioridades.</p>
-			<p>As tabelas são atualizadas uma vez por semana.</p>
+            <p>Todas as semanas, há três dias em que o Beer Social Padel (BSP) organiza torneios das 21:00 às 23:00 no indoor da Quinta de Monserrate em Matosinhos:</p>
+            <BR>
+			<H5>SEGUNDA-FEIRA | TERÇA-FEIRA | QUINTA-FEIRA</H5>
+            <BR>
+			<p>As inscrições são livres, e qualquer jogador que esteja no grupo WhatsApp pode fazer a sua inscrição.</p>
+			<p>Os torneios são todos realizados em formato Non-Stop, e temos três tipos de torneios BSP:</p>
+            <BR>
+			<H5>PREMIUM | CHALLENGER | PARTNERS</H5>
+            <BR>
+			<p>Nos torneios PREMIUM / CHALLENGER, as duplas são sorteadas. A definição do sorteio tem por base a classificação de cada jogador no Ranking BSP CS, para definir quais são os cabeças de serie, e a pontuação de cada jogador também serve de critério para distribuir os jogadores pelos 6 campos, pois são realizados simultaneamente dois nonstops de 6 duplas cada.</p>
+			<p>Nos torneios PARTNERS, cada jogador pode escolher o seu parceiro. Neste formato, as duplas são distribuídas pelos 6 campos através da pontuação da dupla, havendo 2  grupos de 6 duplas, jogam entre si em formato non-stop, havendo ainda finalíssima no final, com o 1º do grupo A a defrontar o 1º do grupo B, 2ª vs 2ª, etc.</p>
             <BR><BR>
             <H3><div style="color:orange;">BSP PREMIUM</div></H3>
             <BR>
@@ -50,20 +54,7 @@
 			<p>Em todos os torneios haverá sempre uma vaga garantida para um fundador BSP.</p>
 			<p>Os fundadores tem o direito a atribuir Wild Cards aos jogadores sempre que achem necessário.</p>
             <BR><BR>
-            <H3><div style="color:#e8491d;">Regras torneio:</div></H3>
-            <BR>
-            <ul>
-	            <li>Jogos são cronometrados, 15/20 min por jogo (mediante os campos utilizados);</li>
-				<li>Quando soar o apito/aviso acaba o jogo;</li>
-				<li>Se estiver 4-3 (0-15) ganha quem ta a ganhar 4-3;</li>
-				<li>Se estiver 4-4 (15-0) ganha quem ta a ganhar 15-0;</li>
-				<li>Se estiver 4-4 (15-15) fazem esse ponto até ao fim;</li>
-				<li>No final de cada jogo, os vencedores devem comunicar o resultado e segue-se para a ronda seguinte.</li>
-				<li>Cada jogador tem direito a uma água de 0,5 L.</li>
-				<li>No caso de haver duplas com a mesma pontuação, o primeiro critério de desempate é a diferença de jogos, o 2º critério é o maior numero de jogos ganho, o 3º critério é confronto directo.</li>
-			</ul>
-            <BR><BR>
-            <BR><BR>
+            
 
         </div>
        

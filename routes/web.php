@@ -47,6 +47,18 @@ Route::get('/rankingcs', function () {
     return view('rankingcs');
 });
 
+Route::get('/regras', function () {
+    return view('regras');
+});
+
+Route::get('/whatsapp', function () {
+    return view('whatsapp');
+});
+
+Route::get('/inscricoestorneios', function () {
+    return view('inscricoestorneios');
+});
+
 Route::get('/fichainscricao', function () {
     return view('fichainscricao');
 });
