@@ -106,7 +106,6 @@
                       <a class="dropdown-item" href="/inscricoestorneios">Inscrições</a>
                       <a class="dropdown-item" href="/regras">Regras</a>
                       <a class="dropdown-item" href="/rankingcs">Pontuações</a>
-                      <a class="dropdown-item" href="/planeamento">Planeamento</a>
                       <a class="dropdown-item" href="https://drive.google.com/drive/folders/1_X7TS2UOQF-JJlLZG83VBaZvER-sg2fP?usp=sharing" target='_blank'>Classificações / Resultados</a>
                     </div>
                 </li>

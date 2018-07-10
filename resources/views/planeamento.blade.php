@@ -29,11 +29,11 @@
         </div>
         
 
-        <div class="table-responsive" style="margin: 0; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36;">
+        <!--<div class="table-responsive" style="margin: 0; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36;">
 
           <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=slijjac47e5ojsflasspikb9e4%40group.calendar.google.com&amp;color=%23125A12&amp;src=2451taabke0e117k8vd4ico8a8%40group.calendar.google.com&amp;color=%231B887A&amp;src=6ft5emqg6rueoqq9g46nbef8uk%40group.calendar.google.com&amp;color=%23711616&amp;src=375i9hu2smbo88ikkh2g67c3ts%40group.calendar.google.com&amp;color=%2342104A&amp;src=4o9v05vui7nbkasctn2f193nko%40group.calendar.google.com&amp;color=%23875509&amp;ctz=Europe%2FLisbon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-      </div>
+      </div>-->
 
             
 
