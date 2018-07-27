@@ -1,13 +1,16 @@
+	# Force HTTPS + www in one go
+	RewriteEngine On 
+	RewriteCond %{HTTP_HOST} ^beersocialpadel\.pt [NC,OR]
+	RewriteCond %{HTTP:X-Forwarded-Proto} !https
+	RewriteRule ^(.*)$ https://www.beersocialpadel.pt/$1 [R=301,L]
+
+
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
     </IfModule>
 
-    # Force HTTPS + www in one go
-	RewriteEngine On 
-	RewriteCond %{HTTP_HOST} ^beersocialpadel\.pt [NC,OR]
-	RewriteCond %{HTTP:X-Forwarded-Proto} !https
-	RewriteRule ^(.*)$ https://www.beersocialpadel.pt/$1 [R=301,L]
+   
 	
 
     # Handle Authorization Header
