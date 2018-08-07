@@ -36,7 +36,7 @@
 		
 		    <BR>
 		    <p>
-    		Para o cálculo do RANKING CS da temporada em curso, sempre que cada jogador chegar a 5 torneios num mês, apenas serão considerados os 4 melhores torneios. E em cada época, apenas são considerados os 20 melhores torneios de cada jogador.
+    		Para o cálculo do RANKING CS da temporada em curso, sempre que cada jogador chegar a 6 torneios num mês, apenas serão considerados os 5 melhores torneios. E em cada época, apenas são considerados os 20 melhores torneios de cada jogador.
     		</p>
         </div>
         <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36;">
