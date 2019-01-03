@@ -120,12 +120,16 @@
                     </div>
                 </li>
 
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a class="nav-link" href="/multimedia">Fotos/Videos</a>
-                </li>
+                </li>-->
 
                 <li class="nav-item">
                   <a class="nav-link" href="/whatsapp">WhatsApp</a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" href="/bsp">O BSP</a>
                 </li>
             
 

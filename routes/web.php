@@ -55,6 +55,10 @@ Route::get('/whatsapp', function () {
     return view('whatsapp');
 });
 
+Route::get('/bsp', function () {
+    return view('bsp');
+});
+
 Route::get('/inscricoestorneios', function () {
     return view('inscricoestorneios');
 });

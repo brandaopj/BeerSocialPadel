@@ -23,7 +23,7 @@
             
             <p>Dado a diversidade de assuntos, categorias, níveis, etc, o BSP viu-se obrigado a criar vários grupos whatsapp por forma a garantir uma fácil compreensão de cada grupo, e não preencher apenas 1 grupo com demasiada informação:</p>
 
-			<H5>BSP – BEER SOCIAL PADEL | BSP – SEASON x</H5>
+			<H5>BSP – BEER SOCIAL PADEL | BSP – SEASON X</H5>
 			<p>Cada um destes grupos tem regras de conduta e finalidades diferentes, nomeadamente:</p>
 
             <H5>BSP – BEER SOCIAL PADEL</H5>
@@ -34,15 +34,13 @@
 
             <ul>
                 
-                <li>Não é permitido em dias de torneio BSP (2ª feira / 3ª feira e 5ª feira);</li>
-                <li>Apenas se podem marcar jogos entre elementos do grupo;</li>
                 <li>Não é permitido chamar jogadores para torneios/jogos de outros grupos;</li>
                 <li>Respeitar ao máximo os nossos parceiros, nomeadamente a Quinta de Monserrate.</li>
 
             </ul>
 
 
-            <H5>BSP – SEASON x</H5>
+            <H5>BSP – SEASON X</H5>
 
 			<p>Este grupo será onde se fazem apenas as inscrições nos torneios BSP. Todo o tipo de conversa/discussão sobre sorteios/torneios deverá ser evitado neste grupo, pois pretendemos manter este grupo o mais discreto possível e com o mínimo de mensagens possível.</p>
 

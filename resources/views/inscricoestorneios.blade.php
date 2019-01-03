@@ -26,18 +26,18 @@
 			
             <H5>PREMIUM | CHALLENGER | PARTNERS</H5>
 			
-            <p>Todas os jogadores podem-se inscrever em qualquer um dos torneios, no entanto, de forma a possibilitar que o maior número de pessoas consigam participar, e também por forma a equilibrar os níveis, existem prioridades diferentes em função da pontuação RANKING CS de cada jogador.</p>
+            <p>Todos os jogadores podem-se inscrever em qualquer um dos torneios, no entanto, de forma a possibilitar que o maior número de pessoas consigam participar, e também por forma a equilibrar os níveis, existem prioridades diferentes em função da pontuação RANKING CS de cada jogador.</p>
 			
             <p>Nos torneios PREMIUM, os jogadores da 1ª metade da tabela RANKING CS têm prioridade. Todas as inscrições dos jogadores que estão na 2ª metade da tabela, são consideradas, e os jogadores colocados em standby.</p>
 			
-			<p>A 24h da hora do torneio, deixa de haver prioridade, e caso não se consiga preencher o torneio com jogadores da zona PREMIUM, as restantes vagas são preenchidas pelos jogadores em standby, tendo prioridade os jogadores com melhor classificação no ranking.</p>
+			<p>A 24h da hora do torneio, deixa de haver prioridade, e caso não se consiga preencher o torneio com jogadores da zona premium, as restantes vagas são preenchidas pelos jogadores em standby, tendo prioridade os jogadores com melhor classificação no ranking. Se até 24h antes do inicio do torneio, o numero de inscrições de jogadores com prioridade ultrapssar o numero de vagas, será considerada a ordem de inscrição.</p>
 
 			<p>Nos torneios CHALLENGER, é exactamente o inverso.</p>
 
             <BR>
-            <p>Os vencedores dos torneios CHALLENGER, têm vaga garantida no torneio PREMIUM da semana seguinte, sendo que o cabeça de serie dessa dupla, terá vaga garantida no torneio com mais pontuação desse dia, enquanto que o outro jogador que venceu apenas terá a vaga garantida na inscrição.</p> 
+            <p>Os vencedores dos torneios CHALLENGER, têm vaga garantida no torneio PREMIUM da semana seguinte.</p> 
 
-			<p>Nos torneios PARTNERS, não há prioridades. No entanto, só são validadas inscrições de duplas que ambos os jogadores estejam no grupo whatsapp da época em curso.</p>
+			<p>Nos torneios PARTNERS, não há prioridades, sendo considerada a ordem de inscrição.</p>
             
             <BR>
             <p>Em todos os torneios, há sempre uma vaga para um Fundador BSP, e sempre que ache necessário poderão ser atribuídos Wild Cards.</p>
