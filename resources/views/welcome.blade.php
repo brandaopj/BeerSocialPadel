@@ -10,13 +10,12 @@
 
 @section('content')
 
-        <!-- <div class="alert alert-info alert-dismissible fade show" role="alert" style="text-align: center">
+        <div class="alert alert-info alert-dismissible fade show" role="alert" style="text-align: center">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
-            <strong>Novidades 2018!</strong>  <a href="https://www.facebook.com/cartripadel/" class="alert-link">Cartri</a> 
-            será o nosso parceiro desportivo.
-        </div> -->
+            <strong>Consulta a tua classificação no Ranking</strong>  <a href="https://drive.google.com/drive/folders/1_X7TS2UOQF-JJlLZG83VBaZvER-sg2fP" class="alert-link">aqui!</a>
+        </div>
 
         <section id = "showcase">
           <!-- <div class="container"> -->

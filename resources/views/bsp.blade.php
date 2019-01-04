@@ -29,7 +29,21 @@
             <p>E foi este, o principal motivo, que levou 6 amigos a criarem um grupo na rede social whatsapp, para organizarem jogos e se encontrarem uma vez por semana para praticar uma modalidade que todos tinham acabado de conhecer e rapidamente ficaram viciados.</p>
 
 
+            <BR>
+        	    <H2>Timeline</H2>
+            <BR>
+
+            <div class="box">
+                <img src="/images/timeline1.png">       
+            </div>
+            <BR>
+            <div class="box">
+                <img src="/images/timeline2.png">       
+            </div>
+
         </div>
+
+        
        
 
 

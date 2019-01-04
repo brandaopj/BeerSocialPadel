@@ -41,16 +41,9 @@ ul{
 #showcase{
 
   min-height:480px;
-  xbackground-image: url('/images/fondopista.png');
   background-image: url('/images/founderspadel.png');
   background-repeat: no-repeat;
   background-position: center -300px;
-  xbackground-attachment: fixed;
-  xbackground-size: cover;
-  xbackground-size: contain;
-  xtext-align:right;
-  xcolor:#ffffff;
-  xfont-weight:bold;
 }
 
 #showcase h1{
@@ -62,6 +55,7 @@ ul{
 #showcase p{
   font-size:20px;
 }
+
 
 /* Newsletter */
 /*#newsletter{

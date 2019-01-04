@@ -38,11 +38,11 @@
 		    <p>Para o RANKING CS, apenas são consideradas as 7 melhores pontuações de cada jogador no mês, e os 25 melhores da temporada</p>
       </div>
 
-      <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 30px; padding-right: 30px; background-color: #142C36;">
+      <div style="margin: 0 auto; width: 100%;  padding: 10px; padding-left: 10px; padding-right: 10px; background-color: #142C36;">
 
         @php
         
-          $table1000 = "<div style='margin: 0 auto; padding-right: 20px; color:black;'>
+          $table1000 = "<div style='margin: 0 auto; color:black;'>
                         <table class='table table-striped' style='text-align:center'>
                         <thead>
                           <tr>
@@ -124,7 +124,7 @@
                         </div>";
 
 
-          $table2000 = "<div style='margin: 0 auto; padding-left: 20px; color:black;'>
+          $table2000 = "<div style='margin: 0 auto; color:black;'>
                         <table class='table table-striped' style='text-align:center'>
                         <thead>
                           <tr>
@@ -189,7 +189,9 @@
         <table class='table table-striped table-dark' style='text-align:center'>
           <thead>
             <tr>
-              <th colspan=3 style='text-align:center; font-size: 2em; background-color: #FF6600; '>Beer Social Padel Season 4</th>
+              <th colspan=3 style='text-align:center; font-size: 2em; background-color: #FF6600; '>
+                Beer Social Padel Season 4
+              </th>
             </tr>
            </thead>
            <tbody>

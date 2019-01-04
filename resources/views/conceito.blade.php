@@ -28,15 +28,14 @@
 
         <div class="container">
 
-    <div class="box">
+        <div class="box">
           <img src="https://i.imgur.com/sseswjN.jpg">
           <h3><a href="/welcome">BSP</a></h3>
         </div>
 
 
         <div class="box">
-          <img src="/images/equal.png">
-          
+          <img src="/images/equal.png">       
         </div>
 
         <div class="box">

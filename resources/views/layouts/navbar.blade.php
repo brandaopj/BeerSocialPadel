@@ -67,13 +67,16 @@
         </button>
 
         <!-- Brand -->
-        <!-- <a class="navbar-brand" href="/welcome">
-            <img src="https://i.imgur.com/sseswjN.jpg" width="60" height="60" class="d-inline-block align-top" alt=""> <h1><span class="highlight">BSP</span>  Beer Social Padel</h1>
-        </a> -->
-
-        <a class="navbar-brand" href="/welcome">
-            <h1><span class="highlight">BSP</span> Beer Social Padel</h1>
+        <a class="navbar-brand" style="display: contents;" href="/welcome">
+        
+          <img src="/images/bsplogo.png" height="60">
+          <h1 style="display: inline; margin-left:25px;"><span class="highlight">BSP</span>  Beer Social Padel</h1>
+       
         </a>
+
+        <!--<a class="navbar-brand" href="/welcome">
+            <h1><span class="highlight">BSP</span> Beer Social Padel</h1>
+        </a>-->
 
         <!-- Links -->
         <div class="collapse navbar-collapse" id="nav-content">   
