@@ -26,8 +26,11 @@
            <p>Faz já a tua <a href="/fichainscricaomistos">inscrição</a> nesta modalidade!</p> -->
          <!-- </div> -->
         </section>
-        <div class="table-responsive" style="margin: 0; width: 100%; background-color: #142C36; color: white;  padding: 10px; text-align:center;">Legenda: Bruno Tomé, Tiago Benigno, Vasco Sampaio, Eduardo Pires, Pedro Serapicos e Adriano Oliveira (da esquerda para a direita)</div>
+        
+        <!--
+        <div class="table-responsive" style="margin: 0; width: 100%; background-color: #142C36; color: white;  padding: 10px; text-align:center;">Legenda: Bruno Tomé, Tiago Benigno, Vasco Sampaio, Eduardo Pires, Pedro Serapicos e Adriano Oliveira (da esquerda para a direita)</div>-->
 
+        
         
 
 
