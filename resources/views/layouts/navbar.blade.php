@@ -118,8 +118,8 @@
                       Inscrição
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="/fichainscricao">Inscrição</a>
-                      <a class="dropdown-item" href="/fichainscricaomistos">Inscrição Mistos</a>
+                      <a class="dropdown-item" href="https://app.beersocialpadel.pt/">Inscrição</a>
+                      <a class="dropdown-item" href="https://app.beersocialpadel.pt/">Inscrição Mistos</a>
                     </div>
                 </li>
 
